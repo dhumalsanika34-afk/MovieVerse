@@ -2,8 +2,21 @@
   background-color: #1e1e2f; 
   padding: 15px 30px;
   display: flex;
-  justify-content: center;
+  justify-content: space-between;
+ align-items: center;
+}
+.navbar-logo img {
+  height: 40px;
+  cursor: pointer;
+}
+
+.navbar-links {
+  display: flex;
   gap: 25px;
+}
+.navbar-auth {
+  display: flex;
+  gap: 20px;
 }
 .navbar a {
   color: #f0f0f0; 
