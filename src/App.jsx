@@ -1,5 +1,6 @@
 import React from "react";
 import Navbar from "./component/Navbar/Navbar";
+import Footer from "./component/Footer/Footer";
 import Home from "./views/Home/Home";
 import About from "./views/About/About";
 import Contact from "./views/Contact/Contact";
@@ -12,6 +13,7 @@ function App() {
       <>
         <Navbar />
         <Home />
+        <Footer/>
       </>
     );
   }
@@ -20,6 +22,7 @@ function App() {
       <>
         <Navbar />
         <About />
+        <Footer/>
       </>
     );
   }
@@ -28,6 +31,7 @@ function App() {
       <>
         <Navbar />
         <Contact />
+        <Footer/>
       </>
     );
   }
