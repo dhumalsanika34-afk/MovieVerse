@@ -1,0 +1,74 @@
+[
+  {
+    "name": "3 Idiots",
+    "directer": "Rajkumar Hirani",
+    "discription": "A comedy-drama about friendship, education, and following your passion.",
+    "image": "https://via.placeholder.com/200x300?text=3+Idiots",
+    "rating": "8.4",
+    "price": "₹250"
+  },
+  {
+    "name": "Dangal",
+    "directer": "Nitesh Tiwari",
+    "discription": "Based on the true story of wrestler Mahavir Singh Phogat and his daughters.",
+    "image": "https://via.placeholder.com/200x300?text=Dangal",
+    "rating": "8.3",
+    "price": "₹300"
+  },
+  {
+    "name": "Sholay",
+    "directer": "Ramesh Sippy",
+    "discription": "Classic action-adventure film featuring Jai and Veeru against Gabbar Singh.",
+    "image": "https://via.placeholder.com/200x300?text=Sholay",
+    "rating": "8.2",
+    "price": "₹200"
+  },
+  {
+    "name": "Zindagi Na Milegi Dobara",
+    "directer": "Zoya Akhtar",
+    "discription": "A road trip that changes the lives of three friends forever.",
+    "image": "https://via.placeholder.com/200x300?text=ZNMD",
+    "rating": "8.1",
+    "price": "₹220"
+  },
+  {
+    "name": "Lagaan",
+    "directer": "Ashutosh Gowariker",
+    "discription": "Villagers challenge British officers to a cricket match to avoid taxes.",
+    "image": "https://via.placeholder.com/200x300?text=Lagaan",
+    "rating": "8.1",
+    "price": "₹280"
+  },
+  {
+    "name": "Inception",
+    "directer": "Christopher Nolan",
+    "discription": "A sci-fi thriller exploring dreams within dreams.",
+    "image": "https://via.placeholder.com/200x300?text=Inception",
+    "rating": "8.8",
+    "price": "$10"
+  },
+  {
+    "name": "The Dark Knight",
+    "directer": "Christopher Nolan",
+    "discription": "Batman faces chaos unleashed by the Joker in Gotham City.",
+    "image": "https://via.placeholder.com/200x300?text=Dark+Knight",
+    "rating": "9.0",
+    "price": "$12"
+  },
+  {
+    "name": "Sairat",
+    "directer": "Nagraj Manjule",
+    "discription": "A love story across caste boundaries that faces tragic consequences.",
+    "image": "https://via.placeholder.com/200x300?text=Sairat",
+    "rating": "8.3",
+    "price": "₹180"
+  },
+  {
+    "name": "Natsamrat",
+    "directer": "Mahesh Manjrekar",
+    "discription": "A retired actor struggles with family betrayal and fading glory.",
+    "image": "https://via.placeholder.com/200x300?text=Natsamrat",
+    "rating": "8.9",
+    "price": "₹200"
+  }
+]
