@@ -1,11 +1,18 @@
-function MovieCard() {
-    return (
-        <div className="movie-card">
-            <img src="movie-poster.jpg" alt="Movie Poster" />
-            <h2>Movie Title</h2>
-            <p>Movie description goes here. It provides a brief overview of the movie plot and key details.</p>
-            <button>Watch Now</button>
-        </div>
-    );
+import React from "react";
+import "./MovieCard.css";
+
+function MovieCard({ name, director, description, image, rating, price }) {
+  return (
+    <div className="movie-card">
+      <img src={image} alt={name} />
+      <h2>{name}</h2>
+      <p><strong>Director:</strong> {director}</p>
+      <p>{description}</p>
+      <p><strong>Rating:</strong> ⭐ {rating}</p>
+      <p><strong>Price:</strong> {price}</p>
+      <button>Watch Now</button>
+    </div>
+  );
 }
+
 export default MovieCard;
