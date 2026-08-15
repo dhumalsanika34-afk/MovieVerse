@@ -1,5 +1,15 @@
+/* Wrapper container - कार्ड्स horizontal दिसण्यासाठी */
+.movie-wrapper {
+  display: flex;
+  flex-direction: row;   /* कार्ड्स एका रांगेत दिसतील */
+  flex-wrap: wrap;       /* जागा कमी असेल तर wrap होतील */
+  justify-content: center; /* कार्ड्स मध्यभागी येतील */
+  width: 100%;
+}
+
+/* Individual Movie Card */
 .movie-card {
-  width: 250px;
+  width: 250px;             /* योग्य width */
   border: 1px solid #ddd;
   border-radius: 10px;
   margin: 15px;
@@ -15,7 +25,7 @@
 }
 
 .movie-card img {
-  width: 100%;
+  width: 250px;
   height: 300px;
   object-fit: cover;
   border-radius: 8px;
