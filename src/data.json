@@ -11,7 +11,7 @@
     "name": "Dangal",
     "directer": "Nitesh Tiwari",
     "discription": "Based on the true story of wrestler Mahavir Singh Phogat and his daughters.",
-    "image": "./public/images/dangal.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-hoxRXZPcRXG-gHwf1oE6tnENqJpy_EAEIkCTRqxlHA&s",
     "rating": "8.3",
     "price": "₹300"
   },
@@ -19,7 +19,7 @@
     "name": "Sholay",
     "directer": "Ramesh Sippy",
     "discription": "Classic action-adventure film featuring Jai and Veeru against Gabbar Singh.",
-    "image": "/public/images/Sholay-poster.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRQjs-5zHHMQwAhNHHeVb4jlO-CGLAqmXjTK8WpUguwklepmhWPLTS1JQ&s=10",
     "rating": "8.2",
     "price": "₹200"
   },
@@ -27,7 +27,7 @@
     "name": "Zindagi Na Milegi Dobara",
     "directer": "Zoya Akhtar",
     "discription": "A road trip that changes the lives of three friends forever.",
-    "image": "/public/images/zindgi.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmMuV9YjCYTUpdg78cUvvEKPpL2Q8HwKYkKwAHF3TFej2WfdQ1NysGcP0Q&s=10",
     "rating": "8.1",
     "price": "₹220"
   },
@@ -35,7 +35,7 @@
     "name": "Lagaan",
     "directer": "Ashutosh Gowariker",
     "discription": "Villagers challenge British officers to a cricket match to avoid taxes.",
-    "image": "/public/images/lagaan.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6URtY5HD2qZmmlj7EyI_wFenMhtAzxsOhVmeVXQBFig&s",
     "rating": "8.1",
     "price": "₹280"
   },
@@ -43,7 +43,7 @@
     "name": "Inception",
     "directer": "Christopher Nolan",
     "discription": "A sci-fi thriller exploring dreams within dreams.",
-    "image": "/public/images/inception.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOP0ggPwRNGNRa71veKGlaG0gJxSQhM5pWZsIAA3FgpfnldUFGqPY2Z4w&s=10",
     "rating": "8.8",
     "price": "$10"
   },
@@ -51,7 +51,7 @@
     "name": "The Dark Knight",
     "directer": "Christopher Nolan",
     "discription": "Batman faces chaos unleashed by the Joker in Gotham City.",
-    "image": "public/images/The_Dark_Knight_(2008_film).jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDkuSR4JHkhz4aXF2Xrx20qvrhezRyISnnf2PVfCPmKtKq9C_598fwbqep&s=10",
     "rating": "9.0",
     "price": "$12"
   },
@@ -59,7 +59,7 @@
     "name": "Sairat",
     "directer": "Nagraj Manjule",
     "discription": "A love story across caste boundaries that faces tragic consequences.",
-    "image": "public/images/Sairat-Marathi-2016-500x500.jpg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXOF4QhIfKDXeQB3hljD5vZhnqXoxMFRS9MEN5-ZG2wg&s=10",
     "rating": "8.3",
     "price": "₹180"
   },
@@ -67,7 +67,7 @@
     "name": "Natsamrat",
     "directer": "Mahesh Manjrekar",
     "discription": "A retired actor struggles with family betrayal and fading glory.",
-    "image": "public/images/natsamrat.jpeg",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYWAkqhwaperOWMsIByehJcBrIkW5LG1K3JFBzeOMJlA&s=10",
     "rating": "8.9",
     "price": "₹200"
   }
