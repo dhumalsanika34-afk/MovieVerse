@@ -3,7 +3,7 @@
     "name": "3 Idiots",
     "directer": "Rajkumar Hirani",
     "discription": "A comedy-drama about friendship, education, and following your passion.",
-    "image": "C:\\Users\\Server\\Desktop\\app\\public\\images\\3idiots.jpg",
+    "image": "https://m.media-amazon.com/images/M/MV5BNzc4ZWQ3NmYtODE0Ny00YTQ4LTlkZWItNTBkMGQ0MmUwMmJlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "rating": "8.4",
     "price": "₹250"
   },
@@ -11,7 +11,7 @@
     "name": "Dangal",
     "directer": "Nitesh Tiwari",
     "discription": "Based on the true story of wrestler Mahavir Singh Phogat and his daughters.",
-    "image": "C:\Users\Server\Desktop\app\public\images\dangal.jpg",
+    "image": "./public/images/dangal.jpg",
     "rating": "8.3",
     "price": "₹300"
   },

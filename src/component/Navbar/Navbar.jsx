@@ -4,7 +4,7 @@ function Navbar() {
 
     <nav className="navbar">
       <div className="navbar-logo">
-        <img src="C:\Users\Server\Desktop\app\public\images\cinema-reel.png" alt="Logo" />
+        <img src="./public/images/cinema-reel.png" alt="Logo" />
       </div>
       <div className="navbar-links">
         <a href="/">Home</a>
